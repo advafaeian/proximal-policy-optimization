@@ -5,7 +5,7 @@ This repository contains an implementation of **Proximal Policy Optimization (PP
 In this project, we applied **PPO** to solve the **Lunar Lander** environment from OpenAI's Gymnasium. 
 
 
-![proximal policy optimization](https://github.com/advafaeian/proximal-policy-optimization/blob/main/images/success.gif)
+![proximal policy optimization](https://github.com/advafaeian/proximal-policy-optimization/blob/main/media/success.gif)
 
 ## Installation
 
@@ -14,4 +14,5 @@ In this project, we applied **PPO** to solve the **Lunar Lander** environment fr
    cd proximal-policy-optimization
    pip install swig
    pip install -r requirements.txt
-   jupyter notebook ppo.ipynb```
+   jupyter notebook ppo.ipynb
+   ```
