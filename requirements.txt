@@ -1,0 +1,4 @@
+tensorflow
+gymnasium
+gymnasium[box2d]
+moviepy
